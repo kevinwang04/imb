@@ -1,0 +1,37 @@
+.control-group{
+    margin-left: 10px;
+}
+
+.control-label{
+    float: left;
+    width: 120px;
+    padding-top: 5px;
+    text-align: right;
+}
+
+.controls{
+    margin-left: 130px;
+}
+
+.errorMessage{
+    color: #ff0000;
+}
+
+/*管理员表格宽度*/
+#manager_tbody tr td{
+    width: 150px;
+}
+
+.item-add {
+    margin-bottom: 10px;
+}
+
+/*表格头背景颜色*/
+.item-thread-tr{
+    background-color: #a0cacd;
+}
+
+/*自定义模态窗口*/
+.modal-custom{
+    width: 500px;
+}
